@@ -73,7 +73,7 @@ border: 2px solid black;
     padding-top: 54px;
       height: 369px;}
       .maincon{width: 100%;
-    height:-webkit-fill-available;
+        height: 1886px;
     background-image: url('http://www.xolaniyona.co.za/images/download.jpg');
     background-size: contain;
     padding: 10px;
